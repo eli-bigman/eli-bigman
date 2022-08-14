@@ -1,10 +1,8 @@
 
 - 👋 Hi, I’m @eli-bigman
 - 🌍  I'm based in Accra, Ghana
-- 👀 I’m interested in programing 
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on any project 
-- 📫 How to reach me on twitter @kelibigman
+- 👀 I’m interested in software development
+- 📫 How to reach me on twitter @elinutsugah
 
 <!---
 keli-bigman/keli-bigman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
