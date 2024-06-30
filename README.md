@@ -5,7 +5,7 @@ Hi 👋 I'm Eli, pleased to meet you.
 Padawan Roots, Jedi Heights 🌱✨
 -
 
-```I am a passionate software developer dedicated to creating exceptional digital products using open-source technologies. On a mission to deliver innovative solutions that enhance productivity and foster continuous learning.```
+I am a passionate software developer dedicated to creating exceptional digital products using open-source technologies. On a mission to deliver innovative solutions that enhance productivity and foster continuous learning.
 
 * 🌍  I'm based in Accra, Ghana
 
