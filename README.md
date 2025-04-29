@@ -10,11 +10,11 @@ I am a passionate software developer dedicated to creating exceptional digital p
 * 🌍  I'm based in Accra, Ghana
 
 * ✉️  You can contact me at [renutsugah@gmail.com](mailto:renutsugah@gmail.com)
-* 🚀  I'm currently working on [Exams Timetable Bot](https://github.com/eli-bigman/exam_timetable_bot)
+* 🚀  I'm presently enhancing my DSA skills through A2SV.
 * 🧠  I'm studying Computer Science student at [University of Ghana](http://ug.edu.gh)
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  Fun Fact: I watch too many movies
-<!--* * 🖥️  See my portfolio at [aikins.xyz](http://aikins.xyz)-->
+<!--* * 🖥️  See my portfolio at -->
 
 
 <b>My GitHub Stats</b>
